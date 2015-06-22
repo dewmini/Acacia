@@ -79,6 +79,7 @@ public class AcaciaFrontEndServiceSession {
 	public def process(val msg:String, val buff:BufferedReader, out:PrintWriter):void{
 		var response:String="";
 		var str:String = null;
+        var query:String=null;
 		
 		if(msg.equals(AcaciaFrontEndProtocol.LIST)){//List the graphs on Acacia
 			val resultArr:Rail[String] = call_runSelect("SELECT IDGRAPH,NAME,UPLOAD_PATH,GRAPH_STATUS_IDGRAPH_STATUS FROM ACACIA_META.GRAPH");
@@ -351,7 +352,39 @@ public class AcaciaFrontEndServiceSession {
 		        out.println(nTraingles);//Write the result to the client.
 		        out.flush();
 	        }
-        }else{
+        }
+else if(msg.equals(AcaciaFrontEndProtocol.SPARQL)){   	//execute sparql queries
+        	out.println(AcaciaFrontEndProtocol.S_QUERY_SEND);
+        	out.flush();
+        	try{
+        		query = buff.readLine();
+        	}catch(val e:IOException){
+        		Logger_Java.error("Error : " + e.getMessage());
+        	}
+        	
+        	out.println(AcaciaFrontEndProtocol.GRAPHID_SEND);
+        	out.flush();
+        	
+        	try{
+        		str = buff.readLine();
+        	}catch(val e:IOException){
+        		Logger_Java.error("Error : " + e.getMessage());
+        	}
+        	
+        	if(!graphExistsByID(str)){
+        		out.println(AcaciaFrontEndProtocol.ERROR + ":The specified graph id does not exist");
+        		out.flush();				
+        	}else{
+        		
+        		val result:String =null;        
+        		//should parse query to the intepreter and get the results
+        		out.println(result);//print the result
+        		out.flush();
+        	}
+        	
+        }
+
+else{
 			//This is the default response
 			out.println(AcaciaFrontEndProtocol.SEND);
 			out.flush();

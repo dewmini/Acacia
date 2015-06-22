@@ -17,5 +17,6 @@
 #!/bin/bash
 
 APPDIR=/nfs/home/miyuru/workspace-x10/Acacia
+#APPDIR=/home/yasima/Acacia/x10dt/workspace/Acaciagit
 
 x10 -classpath .:$APPDIR:$APPDIR/build:$APPDIR/build/classes org.acacia.frontend.AcaciaFrontEnd

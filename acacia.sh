@@ -1,6 +1,6 @@
 #!/bin/bash
 
-APPDIR=/home/miyurud/software/x10dt/workspace/Acacia
+APPDIR=/home/yasima/Acacia/x10dt/workspace/Acaciagit
 
 #export X10_HOSTFILE=$1
 #export X10_NPLACES=$2
