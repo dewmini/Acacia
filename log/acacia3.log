@@ -1,0 +1,294 @@
+2015-04-20 20:53:22,665 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-20 20:53:22,665 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-20 20:53:22,666 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-20 21:00:12,421 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-20 21:00:12,421 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-20 21:00:12,422 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-20 21:44:35,378 [X10 worker thread-3] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-20 21:44:35,379 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-20 21:44:35,380 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-22 20:59:57,598 [X10 worker thread-2] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-22 20:59:57,598 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-22 20:59:57,599 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-22 22:09:58,938 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-22 22:09:58,939 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-22 22:09:58,940 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-22 22:10:10,877 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-22 22:10:10,937 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-22 22:10:10,937 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-22 22:10:10,937 [Thread-2] INFO  org.acacia.log.acacia - Info : Creating /tmp/dgr directory
+2015-04-22 22:10:10,938 [Thread-2] INFO  org.acacia.log.acacia - Directory /tmp/dgr created.
+2015-04-22 22:10:10,938 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-22 22:10:10,939 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-22 22:10:10,939 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-22 22:10:10,940 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-22 22:10:10,940 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 3
+2015-04-22 22:10:10,940 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 3:null
+2015-04-22 22:10:10,940 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/3_null
+2015-04-22 22:10:10,945 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-22 22:10:17,501 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-22 22:10:17,502 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 2
+2015-04-22 22:10:17,502 [Thread-3] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-22 22:10:17,502 [Thread-3] INFO  org.acacia.log.acacia - reading line
+2015-04-22 22:10:17,502 [Thread-3] INFO  org.acacia.log.acacia - msg : hske
+2015-04-22 22:10:17,502 [Thread-3] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-22 22:10:17,540 [Thread-3] INFO  org.acacia.log.acacia - msg : delete
+2015-04-22 22:10:17,541 [Thread-3] INFO  org.acacia.log.acacia - graph id is : 4
+2015-04-22 22:10:17,541 [Thread-3] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 4:null
+2015-04-22 22:10:17,541 [Thread-3] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/4_null
+2015-04-22 22:10:17,541 [Thread-3] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-22 22:16:22,280 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-22 22:16:22,280 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-22 22:16:22,280 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-22 22:16:28,253 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-22 22:16:28,264 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-22 22:16:28,264 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-22 22:16:28,265 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-22 22:16:28,265 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-22 22:16:28,266 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-22 22:16:28,305 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-22 22:16:28,305 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 5
+2015-04-22 22:16:28,306 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 5:null
+2015-04-22 22:16:28,306 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/5_null
+2015-04-22 22:16:28,313 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-22 22:18:23,391 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-22 22:18:23,392 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-22 22:18:23,392 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-22 22:18:30,634 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-22 22:18:30,642 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-22 22:18:30,642 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-22 22:18:30,645 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-22 22:18:30,645 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-22 22:18:30,646 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-22 22:18:30,685 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-22 22:18:30,685 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 6
+2015-04-22 22:18:30,685 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 6:null
+2015-04-22 22:18:30,685 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/6_null
+2015-04-22 22:18:30,693 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-22 22:22:09,821 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-22 22:22:09,821 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-22 22:22:09,821 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-22 22:22:14,634 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-22 22:22:14,645 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-22 22:22:14,645 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-22 22:22:14,648 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-22 22:22:14,649 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-22 22:22:14,649 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-22 22:22:14,689 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-22 22:22:14,689 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 7
+2015-04-22 22:22:14,690 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 7:null
+2015-04-22 22:22:14,690 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/7_null
+2015-04-22 22:22:14,700 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-22 22:24:36,201 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-22 22:24:36,201 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-22 22:24:36,202 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-22 22:24:42,411 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-22 22:24:42,422 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-22 22:24:42,422 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-22 22:24:42,423 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-22 22:24:42,423 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-22 22:24:42,424 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-22 22:24:42,461 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-22 22:24:42,461 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 8
+2015-04-22 22:24:42,462 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 8:null
+2015-04-22 22:24:42,462 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/8_null
+2015-04-22 22:24:42,471 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-22 22:26:22,649 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-22 22:26:22,649 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-22 22:26:22,649 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-22 22:26:45,325 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-22 22:26:45,326 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-22 22:26:45,327 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-22 22:26:50,894 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-22 22:26:50,906 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-22 22:26:50,906 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-22 22:26:50,909 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-22 22:26:50,909 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-22 22:26:50,910 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-22 22:26:50,948 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-22 22:26:50,949 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 9
+2015-04-22 22:26:50,950 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 9:null
+2015-04-22 22:26:50,950 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/9_null
+2015-04-22 22:26:50,958 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-22 22:28:30,372 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-22 22:28:30,372 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-22 22:28:30,377 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-22 22:28:37,421 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-22 22:28:37,427 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-22 22:28:37,427 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-22 22:28:37,429 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-22 22:28:37,429 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-22 22:28:37,430 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-22 22:28:37,468 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-22 22:28:37,469 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 10
+2015-04-22 22:28:37,469 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 10:null
+2015-04-22 22:28:37,469 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/10_null
+2015-04-22 22:28:37,479 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-23 20:16:16,531 [X10 worker thread-3] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-23 20:16:16,531 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-23 20:16:16,532 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-23 20:16:34,376 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-23 20:16:34,381 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-23 20:16:34,381 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-23 20:16:34,382 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-23 20:16:34,382 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-23 20:16:34,383 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-23 20:16:34,422 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-23 20:16:34,422 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 11
+2015-04-23 20:16:34,423 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 11:null
+2015-04-23 20:16:34,423 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/11_null
+2015-04-23 20:16:34,429 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-23 20:20:47,911 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-23 20:20:47,912 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-23 20:20:47,912 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-23 20:20:56,482 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-23 20:20:56,491 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-23 20:20:56,491 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-23 20:20:56,492 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-23 20:20:56,492 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-23 20:20:56,492 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-23 20:20:56,530 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-23 20:20:56,530 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 12
+2015-04-23 20:20:56,530 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 12:null
+2015-04-23 20:20:56,530 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/12_null
+2015-04-23 20:20:56,534 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-23 20:22:47,317 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-23 20:22:47,319 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-23 20:22:47,320 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-23 20:22:55,826 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-23 20:22:55,832 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-23 20:22:55,832 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-23 20:22:55,833 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-23 20:22:55,834 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-23 20:22:55,834 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-23 20:22:55,874 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-23 20:22:55,874 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 13
+2015-04-23 20:22:55,875 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 13:null
+2015-04-23 20:22:55,875 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/13_null
+2015-04-23 20:22:55,883 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-23 20:25:32,441 [X10 worker thread-2] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-23 20:25:32,442 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-23 20:25:32,442 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-23 20:25:39,829 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-23 20:25:39,839 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-23 20:25:39,839 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-23 20:25:39,841 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-23 20:25:39,841 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-23 20:25:39,842 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-23 20:25:39,882 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-23 20:25:39,882 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 14
+2015-04-23 20:25:39,882 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 14:null
+2015-04-23 20:25:39,882 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/14_null
+2015-04-23 20:25:39,886 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-23 20:28:03,067 [X10 worker thread-2] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-23 20:28:03,068 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-23 20:28:03,068 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-23 20:28:13,608 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-23 20:28:13,619 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-23 20:28:13,619 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-23 20:28:13,621 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-23 20:28:13,621 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-23 20:28:13,623 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-23 20:28:13,662 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-23 20:28:13,662 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 15
+2015-04-23 20:28:13,663 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 15:null
+2015-04-23 20:28:13,663 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/15_null
+2015-04-23 20:28:13,667 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-23 20:33:13,691 [X10 worker thread-3] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-23 20:33:13,691 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-23 20:33:13,692 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-23 20:33:19,012 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-23 20:33:19,019 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-23 20:33:19,019 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-23 20:33:19,022 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-23 20:33:19,023 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-23 20:33:19,024 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-23 20:33:19,062 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-23 20:33:19,062 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 16
+2015-04-23 20:33:19,062 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 16:null
+2015-04-23 20:33:19,062 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/16_null
+2015-04-23 20:33:19,066 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-23 20:36:33,728 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-23 20:36:33,728 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-23 20:36:33,729 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-23 20:36:41,491 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-23 20:36:41,502 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-23 20:36:41,503 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-23 20:36:41,505 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-23 20:36:41,506 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-23 20:36:41,506 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-23 20:36:41,546 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-23 20:36:41,546 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 17
+2015-04-23 20:36:41,546 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 17:null
+2015-04-23 20:36:41,546 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/17_null
+2015-04-23 20:36:41,551 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-04-23 23:23:00,336 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : wso2-ThinkPad-T530
+2015-04-23 23:23:00,337 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-04-23 23:23:00,337 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-23 23:23:06,978 [X10 worker thread-5] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-04-23 23:23:06,991 [X10 worker thread-5] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-04-23 23:23:06,991 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-04-23 23:23:06,993 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-04-23 23:23:06,993 [Thread-2] INFO  org.acacia.log.acacia - msg : hske
+2015-04-23 23:23:06,994 [Thread-2] INFO  org.acacia.log.acacia - serverHostName : wso2-ThinkPad-T530
+2015-04-23 23:23:07,031 [Thread-2] INFO  org.acacia.log.acacia - msg : delete
+2015-04-23 23:23:07,032 [Thread-2] INFO  org.acacia.log.acacia - graph id is : 18
+2015-04-23 23:23:07,032 [Thread-2] INFO  org.acacia.log.acacia - The following graph was not loaded to the system - 18:null
+2015-04-23 23:23:07,032 [Thread-2] INFO  org.acacia.log.acacia - Deleting the folder: /var/tmp/acad/18_null
+2015-04-23 23:23:07,040 [Thread-2] INFO  org.acacia.log.acacia - Done deleting.
+2015-05-11 21:47:55,240 [X10 worker thread-0] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-05-11 21:47:55,253 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-05-11 21:47:55,254 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-05-11 21:47:55,254 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-05-12 10:02:56,074 [X10 worker thread-0] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-05-12 10:02:56,083 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-05-12 10:02:56,089 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-05-12 10:02:56,089 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-05-12 10:39:28,652 [X10 worker thread-3] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-05-12 10:39:28,655 [X10 worker thread-3] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-05-12 10:39:28,657 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-05-12 10:39:28,657 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-05-12 10:43:14,512 [X10 worker thread-2] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-05-12 10:43:14,515 [X10 worker thread-2] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-05-12 10:43:14,517 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-05-12 10:43:14,517 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-05-12 11:01:59,120 [X10 worker thread-2] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-05-12 11:01:59,122 [X10 worker thread-2] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-05-12 11:01:59,127 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-05-12 11:01:59,127 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-05-12 11:06:00,133 [X10 worker thread-3] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-05-12 11:06:00,137 [X10 worker thread-3] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-05-12 11:06:00,138 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-05-12 11:06:00,138 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-05-12 11:07:20,604 [X10 worker thread-3] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-05-12 11:07:20,607 [X10 worker thread-3] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-05-12 11:07:20,610 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-05-12 11:07:20,610 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-05-12 11:11:35,667 [X10 worker thread-0] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-05-12 11:11:35,673 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-05-12 11:11:35,674 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-05-12 11:11:35,679 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-05-12 17:50:54,884 [X10 worker thread-2] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-05-12 17:50:54,887 [X10 worker thread-2] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-05-12 17:50:54,890 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-05-12 17:50:54,890 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-05-14 11:15:00,441 [X10 worker thread-0] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-05-14 11:15:00,459 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-05-14 11:15:00,461 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-05-14 11:15:00,462 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-06-03 11:55:39,564 [X10 worker thread-0] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-06-03 11:55:39,567 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-06-03 11:55:39,569 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-06-03 11:55:39,569 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-06-03 11:56:20,459 [X10 worker thread-0] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-06-03 11:56:20,465 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-06-03 11:56:20,466 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-06-03 11:56:20,467 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-06-16 08:35:18,727 [X10 worker thread-0] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-06-16 08:35:18,732 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-06-16 08:35:18,733 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-06-16 08:35:18,734 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server
+2015-06-16 08:39:24,573 [X10 worker thread-0] INFO  org.acacia.log.acacia - logFileName : 3 ACACIA_INSTANCE_PORT : 7783 ACACIA_INSTANCE_DATA_PORT : 7787
+2015-06-16 08:39:24,579 [X10 worker thread-0] INFO  org.acacia.log.acacia - Started AcaciaInstance service at yasima-Dell-System-Vostro-3450
+2015-06-16 08:39:24,580 [X10 worker thread-5] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : yasima-Dell-System-Vostro-3450
+2015-06-16 08:39:24,580 [X10 worker thread-5] INFO  org.acacia.log.acacia - Done creating server

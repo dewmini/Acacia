@@ -1,0 +1,26 @@
+2015-02-17 00:57:56,947 [main] INFO  org.acacia.log.acacia - Could not find the port number to run Acacia Instance. Now exitting 
+2015-02-17 01:06:10,822 [main] INFO  org.acacia.log.acacia - Could not find the port number to run Acacia Instance. Now exitting 
+2015-02-17 01:06:41,978 [main] INFO  org.acacia.log.acacia - Could not find the port number to run Acacia Instance. Now exitting 
+2015-02-17 01:08:59,997 [main] INFO  org.acacia.log.acacia - Could not find the port number to run Acacia Instance. Now exitting 
+2015-02-17 01:17:22,566 [main] INFO  org.acacia.log.acacia - Could not find the port number to run Acacia Instance. Now exitting 
+2015-02-17 01:18:53,480 [main] INFO  org.acacia.log.acacia - Could not find the port number to run Acacia Instance. Now exitting 
+2015-02-17 01:22:45,928 [main] INFO  org.acacia.log.acacia - Could not find the port number for Acacia Instance's data transfer service. Now exitting 
+2015-02-17 01:23:56,079 [main] INFO  org.acacia.log.acacia - ---AAAA---
+2015-02-17 01:23:56,080 [main] INFO  org.acacia.log.acacia - ---BBBB---
+2015-02-17 01:23:56,080 [main] INFO  org.acacia.log.acacia - ---CCCC---
+2015-02-17 01:23:56,080 [main] INFO  org.acacia.log.acacia - ---DDDDD---
+2015-02-17 01:23:56,088 [Thread-0] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : sd01.sc.cs.titech.ac.jp
+2015-02-17 01:23:56,089 [Thread-0] INFO  org.acacia.log.acacia - Done creating server
+2015-02-17 01:23:56,091 [main] INFO  org.acacia.log.acacia - Started AcaciaInstance service at sd01.sc.cs.titech.ac.jp
+2015-02-17 01:23:56,091 [main] INFO  org.acacia.log.acacia - ---FFFFF---
+2015-02-17 01:23:56,091 [main] INFO  org.acacia.log.acacia - ---EEEEE---
+2015-02-17 01:25:10,519 [Thread-0] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2015-02-17 01:25:10,548 [Thread-0] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2015-02-17 01:25:10,548 [Thread-2] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2015-02-17 01:25:10,548 [Thread-2] INFO  org.acacia.log.acacia - Info : Creating /tmp/dgr directory
+2015-02-17 01:25:10,548 [Thread-2] INFO  org.acacia.log.acacia - Directory /tmp/dgr created.
+2015-02-17 01:25:10,550 [Thread-2] INFO  org.acacia.log.acacia - reading line
+2015-02-17 01:25:13,636 [Thread-2] INFO  org.acacia.log.acacia - msg : status
+2015-02-17 01:25:24,077 [Thread-2] INFO  org.acacia.log.acacia - msg : exit
+2015-02-17 01:25:27,112 [Thread-2] INFO  org.acacia.log.acacia - msg : close
+2015-02-17 01:25:27,525 [Thread-2] ERROR org.acacia.log.acacia - Error : Stream closed

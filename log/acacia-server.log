@@ -1,0 +1,68 @@
+2014-11-30 20:18:52,311 [X10 worker thread-198] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/input
+2014-11-30 20:18:54,262 [X10 worker thread-198] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/notinverts
+2014-11-30 20:20:33,762 [X10 worker thread-198] INFO  org.acacia.log.acacia - 14/11/30 20:20:33 INFO util.NativeCodeLoader: Loaded the native-hadoop library
+2014-11-30 20:20:36,957 [X10 worker thread-198] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/merged
+2014-11-30 20:20:37,825 [X10 worker thread-198] ERROR org.acacia.log.acacia - Connection refused
+2014-11-30 20:20:37,825 [X10 worker thread-198] ERROR org.acacia.log.acacia - ==> host : null port : 7776
+2014-11-30 20:21:46,571 [X10 worker thread-198] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/partfilelist
+2014-11-30 20:21:49,122 [X10 worker thread-198] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/partlist
+2014-11-30 20:22:38,471 [X10 worker thread-198] ERROR org.acacia.log.acacia - Connection refused
+2014-11-30 20:22:38,477 [X10 worker thread-198] ERROR org.acacia.log.acacia - Connection refused
+2014-11-30 20:22:38,699 [X10 worker thread-198] ERROR org.acacia.log.acacia - Connection refused
+2014-11-30 20:22:38,705 [X10 worker thread-198] ERROR org.acacia.log.acacia - Connection refused
+2014-11-30 20:22:38,925 [X10 worker thread-198] ERROR org.acacia.log.acacia - Connection refused
+2014-11-30 20:22:38,931 [X10 worker thread-198] ERROR org.acacia.log.acacia - Connection refused
+2014-11-30 20:22:39,151 [X10 worker thread-198] ERROR org.acacia.log.acacia - Connection refused
+2014-11-30 20:22:39,157 [X10 worker thread-198] ERROR org.acacia.log.acacia - Connection refused
+2014-11-30 20:23:10,655 [X10 worker thread-197] INFO  org.acacia.log.acacia - Started AcaciaInstance service at sc01.sc.cs.titech.ac.jp
+2014-11-30 20:23:10,662 [X10 worker thread-194] INFO  org.acacia.log.acacia - Starting the backend
+2014-11-30 20:23:10,662 [X10 worker thread-202] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : sc01.sc.cs.titech.ac.jp
+2014-11-30 20:23:10,662 [X10 worker thread-194] INFO  org.acacia.log.acacia - Done creating backend
+2014-11-30 20:23:10,662 [X10 worker thread-202] INFO  org.acacia.log.acacia - Done creating server
+2014-11-30 20:23:10,663 [X10 worker thread-198] INFO  org.acacia.log.acacia - Starting the frontend
+2014-11-30 20:23:10,664 [X10 worker thread-198] INFO  org.acacia.log.acacia - Done creating frontend
+2014-11-30 20:23:10,664 [X10 worker thread-198] INFO  org.acacia.log.acacia - Place count : 4
+2014-11-30 20:24:08,551 [X10 worker thread-198] INFO  org.acacia.log.acacia - Average out degree start time: 2014-11-30 20:24:08
+2014-11-30 20:24:08,558 [X10 worker thread-202] INFO  org.acacia.log.acacia - ===========================>> Got a connection. Now serving...
+2014-11-30 20:24:08,558 [X10 worker thread-199] INFO  org.acacia.log.acacia - ****** Conencted to host : sc01.sc.cs.titech.ac.jp ----------------------
+2014-11-30 20:24:08,559 [X10 worker thread-204] INFO  org.acacia.log.acacia - ****** Conencted to host : sc04.sc.cs.titech.ac.jp ----------------------
+2014-11-30 20:24:08,559 [X10 worker thread-200] ERROR org.acacia.log.acacia - Connecting to host (9) sc02.sc.cs.titech.ac.jp got error message : Connection refused
+2014-11-30 20:24:08,559 [X10 worker thread-205] INFO  org.acacia.log.acacia - ****** Conencted to host : sc03.sc.cs.titech.ac.jp ----------------------
+2014-11-30 20:24:08,570 [X10 worker thread-202] INFO  org.acacia.log.acacia - +++++++++++++++++++++++++++++ >> Connection count : 1
+2014-11-30 20:24:08,570 [Thread-3] INFO  org.acacia.log.acacia - Running a new AcaciaInstanceServiceSession.
+2014-11-30 20:24:08,571 [Thread-3] INFO  org.acacia.log.acacia - reading line
+2014-11-30 20:24:08,571 [Thread-3] INFO  org.acacia.log.acacia - msg : odegdist
+2014-11-30 20:24:08,571 [Thread-3] INFO  org.acacia.log.acacia - Out degree distribution calculation started at : sc01.sc.cs.titech.ac.jp
+2015-01-11 18:16:14,842 [X10 worker thread-199] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/input
+2015-01-11 18:16:17,014 [X10 worker thread-199] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/notinverts
+2015-01-11 18:17:55,993 [X10 worker thread-199] INFO  org.acacia.log.acacia - 15/01/11 18:17:55 INFO util.NativeCodeLoader: Loaded the native-hadoop library
+2015-01-11 18:17:59,167 [X10 worker thread-199] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/merged
+2015-01-11 18:18:00,019 [X10 worker thread-199] ERROR org.acacia.log.acacia - Connection refused
+2015-01-11 18:18:00,019 [X10 worker thread-199] ERROR org.acacia.log.acacia - ==> host : null port : 7776
+2015-01-11 18:19:07,844 [X10 worker thread-199] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/partfilelist
+2015-01-11 18:19:10,436 [X10 worker thread-199] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/partlist
+2015-01-11 18:20:00,015 [X10 worker thread-199] ERROR org.acacia.log.acacia - Connection refused
+2015-01-11 18:20:00,020 [X10 worker thread-199] ERROR org.acacia.log.acacia - Connection refused
+2015-01-11 18:20:00,242 [X10 worker thread-199] ERROR org.acacia.log.acacia - Connection refused
+2015-01-11 18:20:00,248 [X10 worker thread-199] ERROR org.acacia.log.acacia - Connection refused
+2015-01-11 18:20:00,469 [X10 worker thread-199] ERROR org.acacia.log.acacia - Connection refused
+2015-01-11 18:20:00,475 [X10 worker thread-199] ERROR org.acacia.log.acacia - Connection refused
+2015-01-11 18:20:00,695 [X10 worker thread-199] ERROR org.acacia.log.acacia - Connection refused
+2015-01-11 18:20:00,701 [X10 worker thread-199] ERROR org.acacia.log.acacia - Connection refused
+2015-01-11 18:20:33,619 [X10 worker thread-197] INFO  org.acacia.log.acacia - Started AcaciaInstance service at sc01.sc.cs.titech.ac.jp
+2015-01-11 18:20:33,623 [X10 worker thread-204] INFO  org.acacia.log.acacia - Starting the backend
+2015-01-11 18:20:33,623 [X10 worker thread-204] INFO  org.acacia.log.acacia - Done creating backend
+2015-01-11 18:20:33,625 [X10 worker thread-201] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : sc01.sc.cs.titech.ac.jp
+2015-01-11 18:20:33,625 [X10 worker thread-201] INFO  org.acacia.log.acacia - Done creating server
+2015-01-11 18:20:33,627 [X10 worker thread-199] INFO  org.acacia.log.acacia - Starting the frontend
+2015-01-11 18:20:33,627 [X10 worker thread-199] INFO  org.acacia.log.acacia - Done creating frontend
+2015-01-11 18:20:33,627 [X10 worker thread-199] INFO  org.acacia.log.acacia - Place count : 4
+2015-02-15 21:35:43,203 [X10 worker thread-199] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/input
+2015-02-15 21:35:45,418 [X10 worker thread-199] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/notinverts
+2015-02-15 21:37:22,486 [X10 worker thread-199] INFO  org.acacia.log.acacia - 15/02/15 21:37:22 INFO util.NativeCodeLoader: Loaded the native-hadoop library
+2015-02-15 21:37:25,598 [X10 worker thread-199] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/merged
+2015-02-15 21:37:26,479 [X10 worker thread-199] ERROR org.acacia.log.acacia - Connection refused
+2015-02-15 21:37:26,479 [X10 worker thread-199] ERROR org.acacia.log.acacia - ==> host : null port : 7776
+2015-02-15 21:38:35,178 [X10 worker thread-199] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/partfilelist
+2015-02-15 21:38:37,780 [X10 worker thread-199] INFO  org.acacia.log.acacia - Deleted hdfs://sc04:9000/user/miyuru/partlist
+2015-02-15 21:39:26,116 [X10 worker thread-199] ERROR org.acacia.log.acacia - Connecting to host (6) sc01.sc.cs.titech.ac.jp got error message : Connection refused

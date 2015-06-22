@@ -1,0 +1,135 @@
+2015-04-14 17:01:14,643 [X10 worker thread-3] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:01:14,645 [X10 worker thread-3] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:01:14,661 [X10 worker thread-3] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:01:15,490 [X10 worker thread-1] INFO  org.acacia.log.acacia - Starting the backend
+2015-04-14 17:01:15,490 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 17:01:15,490 [X10 worker thread-1] INFO  org.acacia.log.acacia - Done creating backend
+2015-04-14 17:01:15,493 [X10 worker thread-3] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 17:01:15,493 [X10 worker thread-3] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 17:01:15,493 [X10 worker thread-3] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 17:02:38,866 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:02:38,867 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:02:38,870 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:02:39,649 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 17:02:39,650 [X10 worker thread-2] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : null
+2015-04-14 17:02:39,650 [X10 worker thread-2] INFO  org.acacia.log.acacia - Done creating server
+2015-04-14 17:02:39,653 [X10 worker thread-0] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 17:02:39,653 [X10 worker thread-0] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 17:02:39,653 [X10 worker thread-0] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 17:06:54,497 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:06:54,499 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:06:54,502 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:06:55,045 [X10 worker thread-1] INFO  org.acacia.log.acacia - Starting the backend
+2015-04-14 17:06:55,045 [X10 worker thread-1] INFO  org.acacia.log.acacia - Done creating backend
+2015-04-14 17:06:55,046 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 17:06:55,048 [X10 worker thread-0] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 17:06:55,048 [X10 worker thread-0] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 17:06:55,048 [X10 worker thread-0] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 17:07:28,887 [X10 worker thread-2] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:07:28,888 [X10 worker thread-2] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:07:28,891 [X10 worker thread-2] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:07:29,476 [X10 worker thread-1] INFO  org.acacia.log.acacia - Starting the backend
+2015-04-14 17:07:29,476 [X10 worker thread-1] INFO  org.acacia.log.acacia - Done creating backend
+2015-04-14 17:07:29,476 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 17:07:29,477 [X10 worker thread-2] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 17:07:29,478 [X10 worker thread-2] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 17:07:29,478 [X10 worker thread-2] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 17:11:23,696 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:11:23,701 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:11:23,706 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:11:24,289 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 17:11:24,290 [X10 worker thread-2] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : null
+2015-04-14 17:11:24,290 [X10 worker thread-2] INFO  org.acacia.log.acacia - Done creating server
+2015-04-14 17:11:24,292 [X10 worker thread-0] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 17:11:24,292 [X10 worker thread-0] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 17:11:24,292 [X10 worker thread-0] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 17:23:22,368 [X10 worker thread-3] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:23:22,370 [X10 worker thread-3] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:23:22,374 [X10 worker thread-3] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:23:22,930 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 17:23:22,934 [X10 worker thread-1] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : null
+2015-04-14 17:23:22,934 [X10 worker thread-1] INFO  org.acacia.log.acacia - Done creating server
+2015-04-14 17:23:22,937 [X10 worker thread-3] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 17:23:22,937 [X10 worker thread-3] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 17:23:22,937 [X10 worker thread-3] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 17:27:43,013 [X10 worker thread-3] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:27:43,015 [X10 worker thread-3] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:27:43,018 [X10 worker thread-3] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:27:43,565 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 17:27:43,567 [X10 worker thread-2] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : null
+2015-04-14 17:27:43,568 [X10 worker thread-2] INFO  org.acacia.log.acacia - Done creating server
+2015-04-14 17:27:43,569 [X10 worker thread-3] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 17:27:43,569 [X10 worker thread-3] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 17:27:43,570 [X10 worker thread-3] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 17:31:19,433 [X10 worker thread-2] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:31:19,435 [X10 worker thread-2] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:31:19,438 [X10 worker thread-2] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:31:19,962 [X10 worker thread-0] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : null
+2015-04-14 17:31:19,962 [X10 worker thread-0] INFO  org.acacia.log.acacia - Done creating server
+2015-04-14 17:31:19,963 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 17:31:20,024 [X10 worker thread-2] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 17:31:20,025 [X10 worker thread-2] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 17:31:20,025 [X10 worker thread-2] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 17:35:19,741 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:35:19,742 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:35:19,746 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:35:20,294 [X10 worker thread-3] INFO  org.acacia.log.acacia - Starting the backend
+2015-04-14 17:35:20,294 [X10 worker thread-3] INFO  org.acacia.log.acacia - Done creating backend
+2015-04-14 17:35:20,295 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 17:35:20,296 [X10 worker thread-0] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 17:35:20,296 [X10 worker thread-0] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 17:35:20,296 [X10 worker thread-0] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 17:43:38,722 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:43:38,723 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:43:38,726 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 17:43:39,285 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 17:43:39,285 [X10 worker thread-1] INFO  org.acacia.log.acacia - Starting the backend
+2015-04-14 17:43:39,285 [X10 worker thread-1] INFO  org.acacia.log.acacia - Done creating backend
+2015-04-14 17:43:39,287 [X10 worker thread-0] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 17:43:39,287 [X10 worker thread-0] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 17:43:39,287 [X10 worker thread-0] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 18:08:26,315 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:08:26,317 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:08:26,320 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:08:26,877 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 18:08:26,878 [X10 worker thread-1] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : null
+2015-04-14 18:08:26,878 [X10 worker thread-1] INFO  org.acacia.log.acacia - Done creating server
+2015-04-14 18:08:26,882 [X10 worker thread-0] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 18:08:26,882 [X10 worker thread-0] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 18:08:26,882 [X10 worker thread-0] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 18:22:28,006 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:22:28,007 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:22:28,010 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:22:28,565 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 18:22:28,572 [X10 worker thread-2] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : null
+2015-04-14 18:22:28,572 [X10 worker thread-2] INFO  org.acacia.log.acacia - Done creating server
+2015-04-14 18:22:28,579 [X10 worker thread-0] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 18:22:28,579 [X10 worker thread-0] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 18:22:28,579 [X10 worker thread-0] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 18:30:44,343 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:30:44,345 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:30:44,348 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:30:44,707 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 18:30:44,709 [X10 worker thread-1] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : null
+2015-04-14 18:30:44,709 [X10 worker thread-1] INFO  org.acacia.log.acacia - Done creating server
+2015-04-14 18:30:44,711 [X10 worker thread-0] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 18:30:44,712 [X10 worker thread-0] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 18:30:44,712 [X10 worker thread-0] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 18:31:36,089 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:31:36,091 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:31:36,094 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:31:36,417 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 18:31:36,418 [X10 worker thread-2] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : null
+2015-04-14 18:31:36,418 [X10 worker thread-2] INFO  org.acacia.log.acacia - Done creating server
+2015-04-14 18:31:36,421 [X10 worker thread-0] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 18:31:36,421 [X10 worker thread-0] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 18:31:36,422 [X10 worker thread-0] INFO  org.acacia.log.acacia - Place count : 1
+2015-04-14 18:42:34,478 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:42:34,480 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:42:34,485 [X10 worker thread-0] ERROR org.acacia.log.acacia - Cannot run program "/nfs/data0/miyuru/software/hadoop-1.2.0/bin/hadoop": error=2, No such file or directory
+2015-04-14 18:42:34,815 [X10 worker thread-5] INFO  org.acacia.log.acacia - Started AcaciaInstance service at wso2-ThinkPad-T530
+2015-04-14 18:42:34,816 [X10 worker thread-1] INFO  org.acacia.log.acacia - ######>>>>***** -> Starting the server at : null
+2015-04-14 18:42:34,816 [X10 worker thread-1] INFO  org.acacia.log.acacia - Done creating server
+2015-04-14 18:42:34,818 [X10 worker thread-0] INFO  org.acacia.log.acacia - Starting the frontend
+2015-04-14 18:42:34,818 [X10 worker thread-0] INFO  org.acacia.log.acacia - Done creating frontend
+2015-04-14 18:42:34,818 [X10 worker thread-0] INFO  org.acacia.log.acacia - Place count : 1
